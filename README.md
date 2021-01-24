@@ -1,4 +1,4 @@
-#Front-end access and subscription only
+# Front-end access and subscription screens only
 
 Any suggestions is welcome
 
