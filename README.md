@@ -2,4 +2,4 @@
 
 Any suggestions is welcome
 
-![screens](screen mobile.png)
+![screens](screens.png)
