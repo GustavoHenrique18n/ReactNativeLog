@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="SPIDERMAN" src="./screens.png" width="50%">
+  <img alt="SPIDERMAN" src="./screens.png" width="100%">
 </p>
 
 # 🛠 resources useds
