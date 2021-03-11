@@ -1,8 +1,5 @@
-<p align="center">
-  <img alt="SPIDERMAN" src="./screens.png" width="100%">
-</p>
-
-# 🛠 resources useds
+  [![Np](https://img.shields.io/npm/v/node-emoji.svg?style=flat-square)
+# 🛠 tools
  - Node.Js - [DOWNLOAD HERE](https://nodejs.org/en/)
  - EXPO - [DOCS](https://docs.expo.io/)
  - Javascript (React native)
