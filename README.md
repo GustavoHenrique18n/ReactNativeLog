@@ -1,4 +1,4 @@
-  [![Np](https://img.shields.io/npm/v/node-emoji.svg?style=flat-square)
+  [![N](https://img.shields.io/npm/v/node-emoji.svg?style=flat-square)
 # 🛠 tools
  - Node.Js - [DOWNLOAD HERE](https://nodejs.org/en/)
  - EXPO - [DOCS](https://docs.expo.io/)
